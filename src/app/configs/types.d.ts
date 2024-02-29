@@ -1,0 +1,3 @@
+type NavItems = {
+    title: String;
+  };
