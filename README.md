@@ -1,20 +1,18 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Emailer Platform](https://emailer.lupleg.website/) The project is currently under development [`Created by Lupleg`](https://lupleg.website/).
 
 ## Getting Started
 
-First, run the development server:
+How the platform works:
 
-```bash
-npm run dev
+```Setup your Account
+Gmail
 # or
-yarn dev
+Github
 # or
-pnpm dev
-# or
-bun dev
+Email
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+The once you complete creating your account, you will be redirected to the Dashboard, where you will see all features.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
