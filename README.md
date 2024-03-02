@@ -14,4 +14,4 @@ Email
 
 The once you complete creating your account, you will be redirected to the Dashboard, where you will see all features.
 
-More on use case coming soon!
+More on usecase coming soon or you can Contribute to this project.
