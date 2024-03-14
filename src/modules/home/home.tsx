@@ -1,7 +1,9 @@
 import Header from "@/shared/widgets/header/header";
 import Banner from "./features/banner";
-import Branding from "./features/Branding";
-import Benefits from "./features/Benefits";
+import Branding from "./features/branding";
+import Benefits from "./features/benefits";
+import FeatureHighlight from "./features/feature.highlight";
+import Pricing from "./features/pricing";
 
 const Home = () => {
   return (
@@ -10,6 +12,8 @@ const Home = () => {
       <Banner />
       <Branding />
       <Benefits />
+      <FeatureHighlight />
+      <Pricing />
     </div>
   );
 };
