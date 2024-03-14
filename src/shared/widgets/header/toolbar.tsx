@@ -12,6 +12,9 @@ const Toolbar = () => {
       <Button color="primary" className="text-lg">
         Start Trial
       </Button>
+      <Link href={"/sign-up"}>
+        Login
+      </Link>
       
     </>
   );
