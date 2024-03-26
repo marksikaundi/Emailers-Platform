@@ -12,7 +12,7 @@ const clashDisplay = localFont({
 
 export const metadata: Metadata = {
   title: "LupXml",
-  description: " Manage your emailers with ease and efficiency",
+  description: "Manage your emailers with ease and efficiency",
 };
 
 export default function RootLayout({
